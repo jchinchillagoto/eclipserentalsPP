@@ -2,11 +2,11 @@ Privacy Policy for SMS Communications
 
 Effective Date: October 20, 2026
 
-Eclipse Rentals (“we,” “our,” or “us”) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and protect information when you opt in to receive SMS/text messages from Eclipse Rentals.
+Occulus Films, LLC (“we,” “our,” or “us”) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and protect information when you opt in to receive SMS/text messages from Occulus Films, LLC.
 
 Business Information
 
-Eclipse Rentals
+Occulus Films, LLC
 7600 North 16th Street, Suite E115
 Phoenix, AZ 85020
 Email: nick@occulusfilms.com
@@ -34,7 +34,7 @@ Send customer care and support communications
 Improve our services and customer experience
 SMS Consent
 
-By providing your mobile phone number and opting in, you consent to receive SMS/text messages from Eclipse Rentals related to service inquiries, scheduling updates, appointment confirmations, and follow-up information.
+By providing your mobile phone number and opting in, you consent to receive SMS/text messages from Occulus Films, LLC related to service inquiries, scheduling updates, appointment confirmations, and follow-up information.
 
 Message frequency may vary based on your interactions, rentals, and service requests.
 
@@ -72,7 +72,7 @@ Contact Us
 
 If you have questions about this Privacy Policy or SMS communications, contact:
 
-Eclipse Rentals
+Occulus Films, LLC
 7600 North 16th Street, Suite E115
 Phoenix, AZ 85020
 Email: nick@occulusfilms.com
